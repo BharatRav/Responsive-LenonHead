@@ -2,8 +2,8 @@
 
 ## This is a responsive  website where i'll upload the study material in future. ##
 
-# Netlify Link
-responsive-html-lenonhead.netlify.app
+# Netlify Link to see this website
+ https://responsive-html-lenonhead.netlify.app
 
 
 # To Clone this project use this command
