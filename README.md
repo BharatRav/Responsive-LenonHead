@@ -1,6 +1,6 @@
 # Responsive-LenonHead
 
-This is a simple responsive wesite where i'll upload the study material in future
+## This is a responsive  website where i'll upload the study material in future. ##
 
 # Netlify Link
 responsive-html-lenonhead.netlify.app
